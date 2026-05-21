@@ -18,6 +18,8 @@ and Data Deletion instructions before approving an app for production.
 | [PRIVACY.md](./PRIVACY.md) | Privacy Policy — no backend, no telemetry, all data stays local |
 | [DATA_DELETION.md](./DATA_DELETION.md) | How to delete JAMES data + revoke third-party access |
 | [SECURITY.md](./SECURITY.md) | Vulnerability disclosure policy |
+| [LICENSE](./LICENSE) | MIT License — terms under which this repository's contents can be reused |
+| [CONTRIBUTING.md](./CONTRIBUTING.md) | How to propose changes via pull request |
 
 ## What this repo is NOT
 
